@@ -13,3 +13,5 @@ This project is based on a hypothetical scenario named "Event Convention Center 
 **2024-01-11**: The workflow & activity, and use case diagram for the Event Registration Subsystem have been created.
 
 **2024-01-15**: The Event Organizer, Event, Event Management, and Service Provider classes have been identified for the Event Registration Subsystem.
+
+**2024-01-18**: Based on the previously identified classes for the Event Registration Subsystem, attributes have been added, and a Domain Class Diagram (without operations/methods) has been constructed.
